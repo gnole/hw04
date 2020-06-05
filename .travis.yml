@@ -1,6 +1,5 @@
 language: cpp
-os:
-  - os: linux arch
+
 jobs:
   include:
   - name: "all projects"
