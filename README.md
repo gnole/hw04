@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/gnole/hw04.svg?branch=master)](https://travis-ci.org/gnole/hw04)
+[![Build status](https://ci.appveyor.com/api/projects/status/smqakb14oj0aisyw?svg=true)](https://ci.appveyor.com/project/gnole/hw04)
 ## Homework IV
 
 Вы продолжаете проходить стажировку в "Formatter Inc." (см [подробности](https://github.com/tp-labs/lab03#Homework)).
