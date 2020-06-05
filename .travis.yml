@@ -1,6 +1,6 @@
 language: cpp
 os:
-  - os: linux arch: arm64 dist: bionic
+  - os: linux arch
 jobs:
   include:
   - name: "all projects"
